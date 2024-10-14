@@ -9,4 +9,5 @@ Flask
 plotly
 notebook
 dill
--e .
+statsmodels
+#-e .
