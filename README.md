@@ -6,4 +6,4 @@ This project aims to predict potential health risks related to air quality. By l
 
 ## webApp link
 
-https://major-project-qguz.onrender.com
+https://major-project-bw5z.onrender.com
