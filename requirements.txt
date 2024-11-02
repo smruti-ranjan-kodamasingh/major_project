@@ -10,5 +10,4 @@ plotly
 notebook
 dill
 statsmodels
-gunicorn
-#-e .
+-e .
