@@ -10,4 +10,4 @@ plotly
 notebook
 dill
 statsmodels
--e .
+#-e .
